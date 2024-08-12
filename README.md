@@ -1,5 +1,4 @@
 # MacDonald's-Sales-Data-Analysis using Excel
-
 Objective: MacDonald's Sales analysis and Dashboard using Advanced Excel
 ![Screenshot (2)](https://github.com/user-attachments/assets/5c25f04e-d69c-46ab-b764-5c1a07f46cb0)
 
