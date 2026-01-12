@@ -2,6 +2,9 @@
 Objective: MacDonald's Sales analysis and Dashboard using Advanced Excel
 ![Screenshot (2)](https://github.com/user-attachments/assets/5c25f04e-d69c-46ab-b764-5c1a07f46cb0)
 
+➡️ View the Full Business Report (PDF): [McDonald's Revenue Analytics.pdf](https://github.com/user-attachments/files/24568671/McDonald.s.Revenue.Analytics.pdf)
+
+
 Key Findings: 
 ✔ Financial Performance:
   McDonald's achieved 85% of its targeted sales, totaling $2.544 billion. While profits reached $890 million, representing 89% of the target, there's room for improvement in both areas.
